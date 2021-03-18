@@ -1,0 +1,28 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black ;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1170px;
+}
+.guess-Field{
+    max-width: 300px;
+}
+html{
+    color: white;
+}
+h1{
+    color: white;
+}
+h3{
+    color:yellow;
+}
+.label{
+    color:green;
+    font-size: 25px;
+    margin-bottom:20px;
+}
